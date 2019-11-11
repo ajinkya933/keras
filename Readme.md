@@ -48,12 +48,13 @@ Use Keras to visualize vgg16 model, extend this technique of visualisation to ab
 
 ## Action:
 
-Tutorial:
+Follow this Tutorial:
 https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/
 
-libraries:
+
+Install these libraries:
+```
 sudo pip install keras-vis
 pip install git+https://github.com/raghakot/keras-vis.git
- 
- Note:
- To change the image from "indian elephant to something else" please change the value of filter_indices from 384 to 380
+```
+Note:To change the image from "indian elephant to something else" please change the value of filter_indices from 384 to 380
