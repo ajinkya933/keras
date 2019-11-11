@@ -51,6 +51,7 @@ Use Keras to visualize vgg16 model, extend this technique of visualisation to ab
 Follow this Tutorial:
 https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/
 
+Create: keras virtual enviornment using: https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
 
 Install these libraries:
 ```
