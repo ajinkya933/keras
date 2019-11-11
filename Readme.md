@@ -1,4 +1,5 @@
-# Situation: Understand throughally how model such as this:
+## Situation: 
+Understand throughally how model such as this:
 
 ```
 # input with shape of height=32 and width=128 
@@ -42,9 +43,10 @@ act_model = Model(inputs, outputs)
 image source (https://github.com/TheAILearner/A-CRNN-model-for-Text-Recognition-in-Keras/blob/master/CRNN%20Model.ipynb)
 work internally and visualize output of each layer of the neural network
 
-# Task: Use Keras to visualize vgg16 model, extend this technique of visualisation to above model
+## Task: 
+Use Keras to visualize vgg16 model, extend this technique of visualisation to above model
 
-# Action:
+## Action:
 
 Tutorial:
 https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/
