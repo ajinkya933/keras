@@ -61,7 +61,8 @@ conda create -n yourenvname python=x.x anaconda
 conda install -c anaconda keras-gpu 
 ```
 3) uninstall Tensorflow 2.0, Tensorflow 2.0 comes by default installed on keras-gpu virtual enviornment.
-```pip uninstall tensorflow
+```
+pip uninstall tensorflow
 ```
 4) Install tensorflow 1.14-gpu
 ```
