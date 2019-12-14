@@ -53,7 +53,7 @@ https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-ne
 
 1) Create: keras virtual enviornment using: 
 ```
-conda create -n yourenvname python=x.x anaconda
+conda create -n tensorflow_p36 python=3.6 anaconda
 ```
 
 2) Install keras-gpu on this virtual enviornment using: 
